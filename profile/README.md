@@ -1,6 +1,6 @@
 # Welcome to ClickUp! 🦄 
 
-![](../assets/cover.png)
+![](assets/cover.png)
 
 ClickUp is the **#1 all-in-one productivity platform** to keep all your work in one place: Tasks, docs, chat, goals, & more!
 
