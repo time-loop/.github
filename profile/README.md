@@ -14,4 +14,4 @@ You can also check out this quick on-demand demo on [getting started in ClickUp]
 
 ## Get involved 👋
 
-Are you a passionate developer obsessed with innovation? Check out the exciting [open positions](https://clickup.com/careers) at ClickUp and you could join our crew! 🧑‍🚀
+Are you a passionate developer obsessed with innovation? Check out the exciting [open positions](https://clickup.com/careers) at ClickUp and join our crew! 🧑‍🚀
